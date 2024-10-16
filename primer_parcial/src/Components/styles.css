@@ -1,0 +1,31 @@
+.card {
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    width: 300px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    overflow: hidden;
+}
+  
+.card-content {
+    padding: 16px;
+}
+
+.card-name{
+    font-weight: bold;
+    color: black;
+}
+
+.card-type{
+    padding: 10px;
+    font-weight: 500;
+}
+
+.card-button-details{
+    background-color: skyblue;
+    margin: 10px;
+}
+
+.card-button-delete{
+    background-color: sandybrown;
+    margin: 10px;
+}

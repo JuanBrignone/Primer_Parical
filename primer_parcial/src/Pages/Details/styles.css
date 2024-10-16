@@ -1,0 +1,24 @@
+.detail-content-image{
+    font-size: 100px;
+}
+
+.back-button{
+    background-color: sandybrown;
+    margin: 10px;
+}
+
+.detail-name{
+    font-weight: bold;
+}
+
+.detail-description{
+    font-weight: bold;
+}
+
+.detail-type{
+    font-weight: bold;
+}
+
+.detail-preparation{
+    font-weight: bold;
+}
